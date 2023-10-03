@@ -2,10 +2,12 @@
 
 I'm just a grumpy cat that likes to machine learn.
 
-Connect with me:
+Connect with me at Woodside:
 - https://confluence.woodside.com.au/display/~W43945
 - https://willow.woodside/ask/michael%20clark
 - https://jira.woodside.com.au/secure/ViewProfile.jspa?name=W43945
+
+Outside:
 - https://linkedin.com/in/maclark52
 - https://github.com/wassname
 - https://twitter.com/wassname
