@@ -8,9 +8,9 @@ Connect with me at Woodside:
 - https://jira.woodside.com.au/secure/ViewProfile.jspa?name=W43945
 
 Outside:
-- https://linkedin.com/in/maclark52
-- https://github.com/wassname
-- https://twitter.com/wassname
+- [LARP with me in the greatest worlds worst businuss simulator](https://linkedin.com/in/mclark52)
+- [git gud with me](https://github.com/wassname)
+- [talk nonsense with em](https://twitter.com/wassname)
 
 
 <h3 align="left">Languages and Tools:</h3>
