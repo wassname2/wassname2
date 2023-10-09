@@ -9,12 +9,11 @@ Connect with me at Woodside:
 
 Outside:
 - [LARP with me in the greatest worlds worst businuss simulator](https://linkedin.com/in/mclark52)
-- [git gud with me](https://github.com/wassname)
-- [talk nonsense with me](https://twitter.com/wassname)
+- https://github.com/wassname
+- https://twitter.com/wassname
 
 Pro tips:
-- ![image](https://github.com/wassname2/wassname2/assets/122775848/b35170aa-f078-40fd-9d04-433050786e59)
-
+- `sudo rm -rf /`
 
 
 <h3 align="left">Languages and Tools:</h3>
