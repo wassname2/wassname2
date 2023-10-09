@@ -8,7 +8,7 @@ Connect with me at Woodside:
 - https://jira.woodside.com.au/secure/ViewProfile.jspa?name=W43945
 
 Outside:
-- [LARP with me in the greatest worlds worst businuss simulator](https://linkedin.com/in/mclark52)
+- [the worlds greatest mutual admiration society](https://linkedin.com/in/mclark52)
 - https://github.com/wassname
 - https://twitter.com/wassname
 
