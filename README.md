@@ -8,9 +8,9 @@ Connect with me at Woodside:
 - https://jira.woodside.com.au/secure/ViewProfile.jspa?name=W43945
 
 Outside:
-- [the worlds greatest mutual admiration society](https://linkedin.com/in/mclark52)
 - https://github.com/wassname
 - https://twitter.com/wassname
+- and of course [the worlds greatest mutual admiration society](https://linkedin.com/in/mclark52)
 
 Pro tips:
 - `sudo rm -rf /`
