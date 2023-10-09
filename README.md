@@ -10,7 +10,7 @@ Connect with me at Woodside:
 Outside:
 - [LARP with me in the greatest worlds worst businuss simulator](https://linkedin.com/in/mclark52)
 - [git gud with me](https://github.com/wassname)
-- [talk nonsense with em](https://twitter.com/wassname)
+- [talk nonsense with me](https://twitter.com/wassname)
 
 
 <h3 align="left">Languages and Tools:</h3>
