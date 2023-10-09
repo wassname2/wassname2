@@ -1,6 +1,6 @@
-### Hi there 👋
+### 👋Hi👋there👋
 
-I'm just a grumpy cat that likes to machine learn.
+I'm just a grumpy cat that likes to machine learn :(.
 
 Connect with me at Woodside:
 - https://confluence.woodside.com.au/display/~W43945
