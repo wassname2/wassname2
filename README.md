@@ -10,7 +10,7 @@ Connect with me at Woodside:
 Outside:
 - https://github.com/wassname
 - https://twitter.com/wassname
-- and of course [the worlds greatest mutual admiration society](https://linkedin.com/in/mclark52)
+- and of course [the worlds greatest "mutual admiration society"](https://linkedin.com/in/mclark52)
 
 Pro tips:
 - `sudo rm -rf /`
