@@ -2,6 +2,8 @@
 
 I'm just a grumpy cat that likes to machine learn :(.
 
+See my [GitHub Stars](https://github.com/wassname2?submit=Search&q=org%3AWoodside&tab=stars&type=&sort=&direction=&submit=Search) for Woodside GitHub projects
+
 Connect with me at Woodside:
 - https://confluence.woodside.com.au/display/~W43945
 - https://willow.woodside/ask/michael%20clark
