@@ -2,7 +2,9 @@
 
 I'm just a grumpy cat that likes to machine learn :(.
 
-See my [GitHub Stars](https://github.com/wassname2?submit=Search&q=org%3AWoodside&tab=stars&type=&sort=&direction=&submit=Search) for Woodside GitHub projects
+Usefull ways to see repos:
+- See my [GitHub Stars]([https://github.com/wassname2?submit=Search&q=org%3AWoodside&tab=stars&type=&sort=&direction=&submit=Search](https://github.com/wassname2?submit=Search&q=org%3AWoodside&tab=stars&type=&sort=&direction=&submit=Search)) for Woodside GitHub projects
+- [teams/digitallabs-developer](https://github.com/orgs/Woodside/teams/digitallabs-developer)
 
 Connect with me at Woodside:
 - https://confluence.woodside.com.au/display/~W43945
