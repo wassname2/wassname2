@@ -1,19 +1,7 @@
 ### 👋Hi👋there👋
 
-I'm just a grumpy cat that likes to machine learn :(.
+I'm just a grumpy cat that likes to machine learn. Woodside account for Michael Clark / wassname
 
-Usefull ways to see repos:
-
-- See my [GitHub Stars](https://github.com/wassname2?submit=Search&q=org%3AWoodside&tab=stars&type=&sort=&direction=&submit=Search) for Woodside GitHub projects
-- [teams/digitallabs-developer](https://github.com/orgs/Woodside/teams/digitallabs-developer)
-- [Woodside/teams/digitallabs-admin](https://github.com/orgs/Woodside/teams/digitallabs-admin/repositories)
-- [teams/wel-data-scientist](https://github.com/orgs/Woodside/teams/wel-data-scientist/repositories)
-
-Connect with me at Woodside:
-
-- https://confluence.woodside.com.au/display/~W43945
-- https://willow.woodside/ask/michael%20clark
-- https://jira.woodside.com.au/secure/ViewProfile.jspa?name=W43945
 
 Outside:
 
